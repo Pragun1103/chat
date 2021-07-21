@@ -1,0 +1,52 @@
+img{
+    width: 100px;
+}
+
+body
+{
+    background-image: url("360_F_298559427_xoDhMK55ZbxKmRbQwU5ZS2ZHK2T0OPwB.jpg");
+}
+
+.Header
+{
+	color: white;font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+.Header img
+{
+	width: 80px;margin-left: -15px; border-radius: 50px;
+}
+
+.login_div
+{
+	background: rgba(255, 255, 255, 0.8);float: none;border-radius: 15px;
+}
+
+
+
+#login_button
+{
+	width: 80%;border-radius: 15px;
+}
+
+.room_name
+{
+	cursor: pointer;
+	font-size: 20px;
+}
+
+
+#logout
+{
+	font-size: 20px; float: right;
+}
+
+
+#output
+{
+	padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+}
+
+.color_white{
+    color: white;
+}
+
